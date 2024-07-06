@@ -1,4 +1,4 @@
-# Sweet-Shop-Web
+# Sweet-Shop-Mobile
 
 Homework/project in User Interface Design(13M111PKI) at the University of Belgrade, School of Electrical Engineering.
 
